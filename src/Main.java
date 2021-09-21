@@ -15,7 +15,7 @@ public class Main {
                 System.out.println("your date is valid");
                 System.out.println(myDat.toString());
             } else
-                System.out.println("your date is not valid");
+                System.out.println("your date is not valid !");
             myDat.getMonthLastDay(month);
 
 
